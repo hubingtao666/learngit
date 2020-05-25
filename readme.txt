@@ -1,7 +1,2 @@
-fatal: pathspec 'readme.txt' did not match any files
-fatal: pathspec 'readme.txt' did not match any files
-fatal: pathspec 'readme.txt' did not match any files
-fatal: pathspec 'readme.txt' did not match any files
-fatal: pathspec 'readme.txt' did not match any files
-fatal: pathspec 'readme.txt' did not match any files
-fatal: pathspec 'readme.txt' did not match any files
+Git is a version control system.
+Git is free software.
